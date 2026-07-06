@@ -120,7 +120,7 @@ Based on this analysis, several strategic observations can be made:
 
 ---
 
-## 📚 What I Learned From This Project
+## What I Learned From This Project
 
 This project significantly improved my practical data analytics skills. Through this analysis, I learned:
 
@@ -136,7 +136,7 @@ Most importantly, I learned that effective data analysis is not just about creat
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 Possible future enhancements for this project include:
 
